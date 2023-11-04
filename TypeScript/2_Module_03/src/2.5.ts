@@ -1,0 +1,7 @@
+{
+    // Function with generics
+
+
+
+    // 
+}
